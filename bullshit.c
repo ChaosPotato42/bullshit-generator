@@ -6,7 +6,7 @@ b(f)=g(d);f!=g(e)&&({return(0);0;});return!c(d,e,f);}void*(j())__asm__("realloc"
 d[0].b,256,k),d[0].c=1,++e;return;0;});b(l)=(l=0)&({a:0;})|({(i(d[l].a,g)&&i(d[l
 ].b,k))&&({++d[l].c;return;1;}),1;})*(++l>=e)?:({goto*&&a;0;});d=j(d,(++e)*size\
 of(c));c*(r)=&d[~-e];h(r->a,256,g),h(r->b,256,k),r->c=1;}b(m())__asm__("fseek");
-b(n)(a(d)){return(d>=97&&d<=122)||(d>=58&&d<=90&&d!=61&&d!=64)||(d==39)||(d==44)
+b(n)(a(d)){return(d>=97&&d<=122)||(d>=48&&d<=90&&d!=61&&d!=64)||(d==39)||(d==44)
 ;}f*(o())__asm__("fopen");struct/**/p{c*(a);b(b);}q(a*(g)){c*(a)=0;b(c)=0;b(b)=(
 b=0)&({a:0;})|({(i(d[b].a,g))&&({a=j(a,(++c)*516),a[~-c]=d[b],1;}),1;})*(++b>=e)
 ?:({goto*&&a;0;});return(struct p){a,c};}b(r())__asm__("fclose");b(s(b(s),a**(t)
