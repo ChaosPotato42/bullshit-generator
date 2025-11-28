@@ -1,3 +1,3 @@
-# Hello-World
+# Bullshit
 
 Compile with `gcc bullshit.c -o bullshit -std=c99`
